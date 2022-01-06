@@ -27,7 +27,7 @@ namespace DateTimee
             Console.WriteLine("Today: " + d4);
             Console.WriteLine("DateTime Construtor1: " + d2);
             Console.WriteLine("DateTime Construtor2: " + d3);
-            //----------------------------
+            //-----------------------------
 
             Console.WriteLine("Parse: " + d5);
             Console.WriteLine("Parse: " + d6);

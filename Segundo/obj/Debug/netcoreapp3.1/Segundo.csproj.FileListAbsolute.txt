@@ -1,0 +1,14 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Segundo\bin\Debug\netcoreapp3.1\Segundo.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Segundo\bin\Debug\netcoreapp3.1\Segundo.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Segundo\bin\Debug\netcoreapp3.1\Segundo.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Segundo\bin\Debug\netcoreapp3.1\Segundo.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Segundo\bin\Debug\netcoreapp3.1\Segundo.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Segundo\bin\Debug\netcoreapp3.1\Segundo.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Segundo\obj\Debug\netcoreapp3.1\Segundo.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Segundo\obj\Debug\netcoreapp3.1\Segundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Segundo\obj\Debug\netcoreapp3.1\Segundo.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Segundo\obj\Debug\netcoreapp3.1\Segundo.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Segundo\obj\Debug\netcoreapp3.1\Segundo.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Segundo\obj\Debug\netcoreapp3.1\Segundo.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Segundo\obj\Debug\netcoreapp3.1\Segundo.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Segundo\obj\Debug\netcoreapp3.1\Segundo.genruntimeconfig.cache

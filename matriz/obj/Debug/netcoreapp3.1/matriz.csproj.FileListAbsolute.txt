@@ -1,0 +1,14 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\matriz\bin\Debug\netcoreapp3.1\matriz.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\matriz\bin\Debug\netcoreapp3.1\matriz.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\matriz\bin\Debug\netcoreapp3.1\matriz.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\matriz\bin\Debug\netcoreapp3.1\matriz.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\matriz\bin\Debug\netcoreapp3.1\matriz.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\matriz\bin\Debug\netcoreapp3.1\matriz.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\matriz\obj\Debug\netcoreapp3.1\matriz.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\matriz\obj\Debug\netcoreapp3.1\matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\matriz\obj\Debug\netcoreapp3.1\matriz.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\matriz\obj\Debug\netcoreapp3.1\matriz.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\matriz\obj\Debug\netcoreapp3.1\matriz.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\matriz\obj\Debug\netcoreapp3.1\matriz.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\matriz\obj\Debug\netcoreapp3.1\matriz.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\matriz\obj\Debug\netcoreapp3.1\matriz.genruntimeconfig.cache

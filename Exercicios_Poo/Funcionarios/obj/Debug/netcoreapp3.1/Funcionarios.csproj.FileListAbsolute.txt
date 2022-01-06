@@ -1,0 +1,14 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Funcoes_Strings\bin\Debug\netcoreapp3.1\Funcoes_Strings.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Funcoes_Strings\bin\Debug\netcoreapp3.1\Funcoes_Strings.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Funcoes_Strings\bin\Debug\netcoreapp3.1\Funcoes_Strings.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Funcoes_Strings\bin\Debug\netcoreapp3.1\Funcoes_Strings.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Funcoes_Strings\bin\Debug\netcoreapp3.1\Funcoes_Strings.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Funcoes_Strings\bin\Debug\netcoreapp3.1\Funcoes_Strings.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Funcoes_Strings\obj\Debug\netcoreapp3.1\Funcoes_Strings.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Funcoes_Strings\obj\Debug\netcoreapp3.1\Funcoes_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Funcoes_Strings\obj\Debug\netcoreapp3.1\Funcoes_Strings.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Funcoes_Strings\obj\Debug\netcoreapp3.1\Funcoes_Strings.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Funcoes_Strings\obj\Debug\netcoreapp3.1\Funcoes_Strings.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Funcoes_Strings\obj\Debug\netcoreapp3.1\Funcoes_Strings.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Funcoes_Strings\obj\Debug\netcoreapp3.1\Funcoes_Strings.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Funcoes_Strings\obj\Debug\netcoreapp3.1\Funcoes_Strings.genruntimeconfig.cache

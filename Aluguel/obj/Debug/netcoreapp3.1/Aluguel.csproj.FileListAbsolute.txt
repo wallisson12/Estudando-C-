@@ -1,0 +1,14 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Aluguel\bin\Debug\netcoreapp3.1\Aluguel.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Aluguel\bin\Debug\netcoreapp3.1\Aluguel.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Aluguel\bin\Debug\netcoreapp3.1\Aluguel.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Aluguel\bin\Debug\netcoreapp3.1\Aluguel.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Aluguel\bin\Debug\netcoreapp3.1\Aluguel.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Aluguel\bin\Debug\netcoreapp3.1\Aluguel.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Aluguel\obj\Debug\netcoreapp3.1\Aluguel.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Aluguel\obj\Debug\netcoreapp3.1\Aluguel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Aluguel\obj\Debug\netcoreapp3.1\Aluguel.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Aluguel\obj\Debug\netcoreapp3.1\Aluguel.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Aluguel\obj\Debug\netcoreapp3.1\Aluguel.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Aluguel\obj\Debug\netcoreapp3.1\Aluguel.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Aluguel\obj\Debug\netcoreapp3.1\Aluguel.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Aluguel\obj\Debug\netcoreapp3.1\Aluguel.genruntimeconfig.cache

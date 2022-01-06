@@ -1,0 +1,16 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\bin\Debug\net5.0\Exercicio13.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\bin\Debug\net5.0\Exercicio13.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\bin\Debug\net5.0\Exercicio13.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\bin\Debug\net5.0\Exercicio13.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\bin\Debug\net5.0\Exercicio13.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\bin\Debug\net5.0\ref\Exercicio13.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\bin\Debug\net5.0\Exercicio13.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\obj\Debug\net5.0\Exercicio13.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\obj\Debug\net5.0\Exercicio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\obj\Debug\net5.0\Exercicio13.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\obj\Debug\net5.0\Exercicio13.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\obj\Debug\net5.0\Exercicio13.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\obj\Debug\net5.0\Exercicio13.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\obj\Debug\net5.0\ref\Exercicio13.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\obj\Debug\net5.0\Exercicio13.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\Exercicio13\obj\Debug\net5.0\Exercicio13.genruntimeconfig.cache

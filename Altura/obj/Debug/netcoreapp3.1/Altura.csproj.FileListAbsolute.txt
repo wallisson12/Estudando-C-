@@ -1,0 +1,14 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Altura\bin\Debug\netcoreapp3.1\Altura.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Altura\bin\Debug\netcoreapp3.1\Altura.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Altura\bin\Debug\netcoreapp3.1\Altura.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Altura\bin\Debug\netcoreapp3.1\Altura.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Altura\bin\Debug\netcoreapp3.1\Altura.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Altura\bin\Debug\netcoreapp3.1\Altura.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Altura\obj\Debug\netcoreapp3.1\Altura.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Altura\obj\Debug\netcoreapp3.1\Altura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Altura\obj\Debug\netcoreapp3.1\Altura.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Altura\obj\Debug\netcoreapp3.1\Altura.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Altura\obj\Debug\netcoreapp3.1\Altura.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Altura\obj\Debug\netcoreapp3.1\Altura.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Altura\obj\Debug\netcoreapp3.1\Altura.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Altura\obj\Debug\netcoreapp3.1\Altura.genruntimeconfig.cache

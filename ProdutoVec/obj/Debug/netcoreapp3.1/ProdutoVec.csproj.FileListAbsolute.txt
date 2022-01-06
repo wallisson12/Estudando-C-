@@ -1,0 +1,14 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ProdutoVec\bin\Debug\netcoreapp3.1\ProdutoVec.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ProdutoVec\bin\Debug\netcoreapp3.1\ProdutoVec.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ProdutoVec\bin\Debug\netcoreapp3.1\ProdutoVec.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ProdutoVec\bin\Debug\netcoreapp3.1\ProdutoVec.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ProdutoVec\bin\Debug\netcoreapp3.1\ProdutoVec.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ProdutoVec\bin\Debug\netcoreapp3.1\ProdutoVec.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ProdutoVec\obj\Debug\netcoreapp3.1\ProdutoVec.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ProdutoVec\obj\Debug\netcoreapp3.1\ProdutoVec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ProdutoVec\obj\Debug\netcoreapp3.1\ProdutoVec.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ProdutoVec\obj\Debug\netcoreapp3.1\ProdutoVec.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ProdutoVec\obj\Debug\netcoreapp3.1\ProdutoVec.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ProdutoVec\obj\Debug\netcoreapp3.1\ProdutoVec.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ProdutoVec\obj\Debug\netcoreapp3.1\ProdutoVec.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ProdutoVec\obj\Debug\netcoreapp3.1\ProdutoVec.genruntimeconfig.cache

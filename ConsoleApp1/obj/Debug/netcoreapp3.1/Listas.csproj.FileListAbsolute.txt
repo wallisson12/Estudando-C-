@@ -1,0 +1,14 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ConsoleApp1\bin\Debug\netcoreapp3.1\Listas.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ConsoleApp1\bin\Debug\netcoreapp3.1\Listas.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ConsoleApp1\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ConsoleApp1\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ConsoleApp1\bin\Debug\netcoreapp3.1\Listas.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ConsoleApp1\bin\Debug\netcoreapp3.1\Listas.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ConsoleApp1\obj\Debug\netcoreapp3.1\Listas.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ConsoleApp1\obj\Debug\netcoreapp3.1\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ConsoleApp1\obj\Debug\netcoreapp3.1\Listas.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ConsoleApp1\obj\Debug\netcoreapp3.1\Listas.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ConsoleApp1\obj\Debug\netcoreapp3.1\Listas.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ConsoleApp1\obj\Debug\netcoreapp3.1\Listas.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ConsoleApp1\obj\Debug\netcoreapp3.1\Listas.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\ConsoleApp1\obj\Debug\netcoreapp3.1\Listas.genruntimeconfig.cache

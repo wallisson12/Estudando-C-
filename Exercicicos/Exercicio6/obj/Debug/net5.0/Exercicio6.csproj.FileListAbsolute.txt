@@ -1,0 +1,16 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\obj\Debug\net5.0\Exercicio6.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\obj\Debug\net5.0\Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\obj\Debug\net5.0\Exercicio6.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\obj\Debug\net5.0\Exercicio6.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\obj\Debug\net5.0\Exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\bin\Debug\net5.0\Exercicio6.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\bin\Debug\net5.0\Exercicio6.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\bin\Debug\net5.0\Exercicio6.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\bin\Debug\net5.0\Exercicio6.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\bin\Debug\net5.0\Exercicio6.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\bin\Debug\net5.0\ref\Exercicio6.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\bin\Debug\net5.0\Exercicio6.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\obj\Debug\net5.0\Exercicio6.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\obj\Debug\net5.0\ref\Exercicio6.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\obj\Debug\net5.0\Exercicio6.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio6\obj\Debug\net5.0\Exercicio6.genruntimeconfig.cache

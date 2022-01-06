@@ -1,0 +1,14 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\OperadorTernario\bin\Debug\netcoreapp3.1\OperadorTernario.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\OperadorTernario\bin\Debug\netcoreapp3.1\OperadorTernario.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\OperadorTernario\bin\Debug\netcoreapp3.1\OperadorTernario.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\OperadorTernario\bin\Debug\netcoreapp3.1\OperadorTernario.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\OperadorTernario\bin\Debug\netcoreapp3.1\OperadorTernario.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\OperadorTernario\bin\Debug\netcoreapp3.1\OperadorTernario.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\OperadorTernario\obj\Debug\netcoreapp3.1\OperadorTernario.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\OperadorTernario\obj\Debug\netcoreapp3.1\OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\OperadorTernario\obj\Debug\netcoreapp3.1\OperadorTernario.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\OperadorTernario\obj\Debug\netcoreapp3.1\OperadorTernario.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\OperadorTernario\obj\Debug\netcoreapp3.1\OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\OperadorTernario\obj\Debug\netcoreapp3.1\OperadorTernario.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\OperadorTernario\obj\Debug\netcoreapp3.1\OperadorTernario.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicicos\OperadorTernario\obj\Debug\netcoreapp3.1\OperadorTernario.genruntimeconfig.cache

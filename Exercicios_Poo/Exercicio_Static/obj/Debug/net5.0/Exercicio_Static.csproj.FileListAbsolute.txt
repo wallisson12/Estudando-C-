@@ -1,0 +1,16 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\bin\Debug\net5.0\Exercicio_Static.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\bin\Debug\net5.0\Exercicio_Static.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\bin\Debug\net5.0\Exercicio_Static.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\bin\Debug\net5.0\Exercicio_Static.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\bin\Debug\net5.0\Exercicio_Static.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\bin\Debug\net5.0\ref\Exercicio_Static.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\bin\Debug\net5.0\Exercicio_Static.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\obj\Debug\net5.0\Exercicio_Static.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\obj\Debug\net5.0\Exercicio_Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\obj\Debug\net5.0\Exercicio_Static.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\obj\Debug\net5.0\Exercicio_Static.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\obj\Debug\net5.0\Exercicio_Static.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\obj\Debug\net5.0\Exercicio_Static.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\obj\Debug\net5.0\ref\Exercicio_Static.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\obj\Debug\net5.0\Exercicio_Static.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicios_Poo\Exercicio_Static\obj\Debug\net5.0\Exercicio_Static.genruntimeconfig.cache

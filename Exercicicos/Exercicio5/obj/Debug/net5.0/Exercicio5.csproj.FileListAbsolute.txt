@@ -1,0 +1,16 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\bin\Debug\net5.0\Exercicio5.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\bin\Debug\net5.0\Exercicio5.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\bin\Debug\net5.0\Exercicio5.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\bin\Debug\net5.0\Exercicio5.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\bin\Debug\net5.0\Exercicio5.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\bin\Debug\net5.0\ref\Exercicio5.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\bin\Debug\net5.0\Exercicio5.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\obj\Debug\net5.0\Exercicio5.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\obj\Debug\net5.0\Exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\obj\Debug\net5.0\Exercicio5.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\obj\Debug\net5.0\Exercicio5.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\obj\Debug\net5.0\Exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\obj\Debug\net5.0\Exercicio5.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\obj\Debug\net5.0\ref\Exercicio5.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\obj\Debug\net5.0\Exercicio5.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Exercicio5\obj\Debug\net5.0\Exercicio5.genruntimeconfig.cache

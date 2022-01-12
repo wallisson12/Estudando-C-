@@ -1,0 +1,14 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_DateTime\bin\Debug\netcoreapp3.1\Propriedades_DateTime.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_DateTime\bin\Debug\netcoreapp3.1\Propriedades_DateTime.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_DateTime\bin\Debug\netcoreapp3.1\Propriedades_DateTime.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_DateTime\bin\Debug\netcoreapp3.1\Propriedades_DateTime.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_DateTime\bin\Debug\netcoreapp3.1\Propriedades_DateTime.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_DateTime\bin\Debug\netcoreapp3.1\Propriedades_DateTime.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_DateTime\obj\Debug\netcoreapp3.1\Propriedades_DateTime.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_DateTime\obj\Debug\netcoreapp3.1\Propriedades_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_DateTime\obj\Debug\netcoreapp3.1\Propriedades_DateTime.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_DateTime\obj\Debug\netcoreapp3.1\Propriedades_DateTime.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_DateTime\obj\Debug\netcoreapp3.1\Propriedades_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_DateTime\obj\Debug\netcoreapp3.1\Propriedades_DateTime.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_DateTime\obj\Debug\netcoreapp3.1\Propriedades_DateTime.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_DateTime\obj\Debug\netcoreapp3.1\Propriedades_DateTime.genruntimeconfig.cache

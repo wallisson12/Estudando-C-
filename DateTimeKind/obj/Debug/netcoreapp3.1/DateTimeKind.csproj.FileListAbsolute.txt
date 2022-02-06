@@ -1,0 +1,14 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\DateTimeKind\bin\Debug\netcoreapp3.1\DateTimeKind.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\DateTimeKind\bin\Debug\netcoreapp3.1\DateTimeKind.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\DateTimeKind\bin\Debug\netcoreapp3.1\DateTimeKind.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\DateTimeKind\bin\Debug\netcoreapp3.1\DateTimeKind.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\DateTimeKind\bin\Debug\netcoreapp3.1\DateTimeKind.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\DateTimeKind\bin\Debug\netcoreapp3.1\DateTimeKind.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\DateTimeKind\obj\Debug\netcoreapp3.1\DateTimeKind.genruntimeconfig.cache

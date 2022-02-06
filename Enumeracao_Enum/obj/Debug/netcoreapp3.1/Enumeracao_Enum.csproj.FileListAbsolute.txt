@@ -1,0 +1,14 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Enumeracao_Enum\bin\Debug\netcoreapp3.1\Enumeracao_Enum.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Enumeracao_Enum\bin\Debug\netcoreapp3.1\Enumeracao_Enum.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Enumeracao_Enum\bin\Debug\netcoreapp3.1\Enumeracao_Enum.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Enumeracao_Enum\bin\Debug\netcoreapp3.1\Enumeracao_Enum.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Enumeracao_Enum\bin\Debug\netcoreapp3.1\Enumeracao_Enum.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Enumeracao_Enum\bin\Debug\netcoreapp3.1\Enumeracao_Enum.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Enumeracao_Enum\obj\Debug\netcoreapp3.1\Enumeracao_Enum.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Enumeracao_Enum\obj\Debug\netcoreapp3.1\Enumeracao_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Enumeracao_Enum\obj\Debug\netcoreapp3.1\Enumeracao_Enum.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Enumeracao_Enum\obj\Debug\netcoreapp3.1\Enumeracao_Enum.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Enumeracao_Enum\obj\Debug\netcoreapp3.1\Enumeracao_Enum.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Enumeracao_Enum\obj\Debug\netcoreapp3.1\Enumeracao_Enum.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Enumeracao_Enum\obj\Debug\netcoreapp3.1\Enumeracao_Enum.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Enumeracao_Enum\obj\Debug\netcoreapp3.1\Enumeracao_Enum.genruntimeconfig.cache

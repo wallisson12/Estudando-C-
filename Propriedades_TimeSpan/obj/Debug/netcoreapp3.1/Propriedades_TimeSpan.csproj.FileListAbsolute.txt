@@ -1,0 +1,13 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_TimeSpan\bin\Debug\netcoreapp3.1\Propriedades_TimeSpan.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_TimeSpan\bin\Debug\netcoreapp3.1\Propriedades_TimeSpan.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_TimeSpan\bin\Debug\netcoreapp3.1\Propriedades_TimeSpan.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_TimeSpan\bin\Debug\netcoreapp3.1\Propriedades_TimeSpan.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_TimeSpan\bin\Debug\netcoreapp3.1\Propriedades_TimeSpan.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_TimeSpan\bin\Debug\netcoreapp3.1\Propriedades_TimeSpan.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_TimeSpan\obj\Debug\netcoreapp3.1\Propriedades_TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_TimeSpan\obj\Debug\netcoreapp3.1\Propriedades_TimeSpan.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_TimeSpan\obj\Debug\netcoreapp3.1\Propriedades_TimeSpan.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_TimeSpan\obj\Debug\netcoreapp3.1\Propriedades_TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_TimeSpan\obj\Debug\netcoreapp3.1\Propriedades_TimeSpan.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_TimeSpan\obj\Debug\netcoreapp3.1\Propriedades_TimeSpan.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Propriedades_TimeSpan\obj\Debug\netcoreapp3.1\Propriedades_TimeSpan.genruntimeconfig.cache

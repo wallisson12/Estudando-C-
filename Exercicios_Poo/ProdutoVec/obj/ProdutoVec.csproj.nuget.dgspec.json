@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\walli\\Desktop\\LG_C#\\1\\Primeiro\\ProdutoVec\\ProdutoVec.csproj": {}
+    "C:\\Users\\walli\\Desktop\\LG_C#\\1\\Primeiro\\Exercicios_Poo\\ProdutoVec\\ProdutoVec.csproj": {}
   },
   "projects": {
-    "C:\\Users\\walli\\Desktop\\LG_C#\\1\\Primeiro\\ProdutoVec\\ProdutoVec.csproj": {
+    "C:\\Users\\walli\\Desktop\\LG_C#\\1\\Primeiro\\Exercicios_Poo\\ProdutoVec\\ProdutoVec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walli\\Desktop\\LG_C#\\1\\Primeiro\\ProdutoVec\\ProdutoVec.csproj",
+        "projectUniqueName": "C:\\Users\\walli\\Desktop\\LG_C#\\1\\Primeiro\\Exercicios_Poo\\ProdutoVec\\ProdutoVec.csproj",
         "projectName": "ProdutoVec",
-        "projectPath": "C:\\Users\\walli\\Desktop\\LG_C#\\1\\Primeiro\\ProdutoVec\\ProdutoVec.csproj",
+        "projectPath": "C:\\Users\\walli\\Desktop\\LG_C#\\1\\Primeiro\\Exercicios_Poo\\ProdutoVec\\ProdutoVec.csproj",
         "packagesPath": "C:\\Users\\walli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walli\\Desktop\\LG_C#\\1\\Primeiro\\ProdutoVec\\obj\\",
+        "outputPath": "C:\\Users\\walli\\Desktop\\LG_C#\\1\\Primeiro\\Exercicios_Poo\\ProdutoVec\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

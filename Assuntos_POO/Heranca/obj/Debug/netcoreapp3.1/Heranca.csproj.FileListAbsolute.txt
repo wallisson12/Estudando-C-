@@ -1,0 +1,14 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca\bin\Debug\netcoreapp3.1\Heranca.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca\bin\Debug\netcoreapp3.1\Heranca.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca\bin\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca\bin\Debug\netcoreapp3.1\Heranca.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca\obj\Debug\netcoreapp3.1\Heranca.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca\obj\Debug\netcoreapp3.1\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca\obj\Debug\netcoreapp3.1\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca\obj\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca\obj\Debug\netcoreapp3.1\Heranca.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca\obj\Debug\netcoreapp3.1\Heranca.genruntimeconfig.cache

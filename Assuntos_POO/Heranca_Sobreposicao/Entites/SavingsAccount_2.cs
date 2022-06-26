@@ -21,5 +21,13 @@ namespace Heranca_Sobreposicao.Entites
         {
             Balance += Balance * InterestRate; 
         }
+
+        //Agora esse metodo sobrescrito da superclasse "Account_2" tem sua propria regra
+        public override void WithDraw(double amount)
+        {
+            base.WithDraw(amount);
+            Balance -= 2.0;
+        }
+
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca_Sobreposicao\bin\Debug\netcoreapp3.1\Heranca_Sobreposicao.exe
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca_Sobreposicao\bin\Debug\netcoreapp3.1\Heranca_Sobreposicao.deps.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca_Sobreposicao\bin\Debug\netcoreapp3.1\Heranca_Sobreposicao.runtimeconfig.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca_Sobreposicao\bin\Debug\netcoreapp3.1\Heranca_Sobreposicao.runtimeconfig.dev.json
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca_Sobreposicao\bin\Debug\netcoreapp3.1\Heranca_Sobreposicao.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca_Sobreposicao\bin\Debug\netcoreapp3.1\Heranca_Sobreposicao.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca_Sobreposicao\obj\Debug\netcoreapp3.1\Heranca_Sobreposicao.csproj.AssemblyReference.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca_Sobreposicao\obj\Debug\netcoreapp3.1\Heranca_Sobreposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca_Sobreposicao\obj\Debug\netcoreapp3.1\Heranca_Sobreposicao.AssemblyInfoInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca_Sobreposicao\obj\Debug\netcoreapp3.1\Heranca_Sobreposicao.AssemblyInfo.cs
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca_Sobreposicao\obj\Debug\netcoreapp3.1\Heranca_Sobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca_Sobreposicao\obj\Debug\netcoreapp3.1\Heranca_Sobreposicao.dll
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca_Sobreposicao\obj\Debug\netcoreapp3.1\Heranca_Sobreposicao.pdb
+C:\Users\walli\Desktop\LG_C#\1\Primeiro\Assuntos_POO\Heranca_Sobreposicao\obj\Debug\netcoreapp3.1\Heranca_Sobreposicao.genruntimeconfig.cache

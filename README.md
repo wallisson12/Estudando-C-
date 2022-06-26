@@ -11,6 +11,15 @@
 
   Curso: https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/
 
+
+  <h3>Tecnologias Utilizadas</h3>
+  
+  <p>
+      <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      <img  height="30" width="30" src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png">
+  </p>
+
+
 <h1> Autor </h1>
 
 <p> <b> Wallisson De Jesus Campos </b> </p>   

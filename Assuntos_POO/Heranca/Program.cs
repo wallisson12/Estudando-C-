@@ -19,6 +19,7 @@ namespace Heranca
             //Na variavel do tipo "Account" tem um OBJ do tipo "BusinessAccount".
             Account acc3 = new BusinessAccount(1003,"Bob",0.0,200.0);
             Account acc4 = new SavingsAccount(1004,"Anna",0.0,0.01);
+             
 
             //DownCasting
 

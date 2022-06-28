@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Heranca_Sobreposicao.Entites
 {
-    class SavingsAccount_2 : Account_2
+    //Estou selando a classe, ou seja, nao permito que essa classe seja herdada
+    sealed class SavingsAccount_2 : Account_2
     {
         public double InterestRate { get; private set; }
 
@@ -23,7 +24,8 @@ namespace Heranca_Sobreposicao.Entites
         }
 
         //Agora esse metodo sobrescrito da superclasse "Account_2" tem sua propria regra
-        public override void WithDraw(double amount)
+        //Estou selando esse metodo para que nao seja sobrescrito novamente em outra subclasse.
+        public sealed override void WithDraw(double amount)
         {
             base.WithDraw(amount);
             Balance -= 2.0;

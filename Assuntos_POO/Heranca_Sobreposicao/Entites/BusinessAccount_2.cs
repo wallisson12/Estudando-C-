@@ -24,5 +24,6 @@ namespace Heranca_Sobreposicao.Entites
                 Balance += amount;
             }
         }
+
     }
 }

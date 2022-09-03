@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30114.105
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Primeiro", "Primeiro\Primeiro.csproj", "{09336C52-4F75-44EB-A25A-25ECF64FC5B3}"
 EndProject
@@ -89,7 +89,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assusntos_POO", "Assusntos_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca_Sobreposicao", "Assuntos_POO\Heranca_Sobreposicao\Heranca_Sobreposicao.csproj", "{36001891-3833-4DA7-80EA-5A4EEFF342C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_Ex1", "Heranca_Ex1\Heranca_Ex1.csproj", "{37C51677-37A1-4F40-93DE-1EADE6758B3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca_Ex1", "Heranca_Ex1\Heranca_Ex1.csproj", "{37C51677-37A1-4F40-93DE-1EADE6758B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_Polimorfismo_Ex2", "Exercicios_Poo\Heranca_Polimorfismo_Ex2\Heranca_Polimorfismo_Ex2.csproj", "{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -593,6 +595,18 @@ Global
 		{37C51677-37A1-4F40-93DE-1EADE6758B3D}.Release|x64.Build.0 = Release|Any CPU
 		{37C51677-37A1-4F40-93DE-1EADE6758B3D}.Release|x86.ActiveCfg = Release|Any CPU
 		{37C51677-37A1-4F40-93DE-1EADE6758B3D}.Release|x86.Build.0 = Release|Any CPU
+		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}.Debug|x64.Build.0 = Debug|Any CPU
+		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}.Debug|x86.Build.0 = Debug|Any CPU
+		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}.Release|x64.ActiveCfg = Release|Any CPU
+		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}.Release|x64.Build.0 = Release|Any CPU
+		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}.Release|x86.ActiveCfg = Release|Any CPU
+		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -639,6 +653,7 @@ Global
 		{F3DB8B30-84E7-44CE-A181-7A45EA5460AB} = {4F7417DF-069D-49D8-85A2-527A4BA48966}
 		{36001891-3833-4DA7-80EA-5A4EEFF342C1} = {4F7417DF-069D-49D8-85A2-527A4BA48966}
 		{37C51677-37A1-4F40-93DE-1EADE6758B3D} = {9EB1E53A-2056-40D8-898E-3B2060D4E1A2}
+		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC} = {9EB1E53A-2056-40D8-898E-3B2060D4E1A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FB5F4C1B-2CFB-40E0-B0D9-7D6B7E55854F}

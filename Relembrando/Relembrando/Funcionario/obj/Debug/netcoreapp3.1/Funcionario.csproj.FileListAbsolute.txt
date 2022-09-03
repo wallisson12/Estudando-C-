@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Relembrando\Relembrando\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.exe
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Relembrando\Relembrando\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.deps.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Relembrando\Relembrando\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.runtimeconfig.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Relembrando\Relembrando\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Relembrando\Relembrando\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Relembrando\Relembrando\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Relembrando\Relembrando\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Relembrando\Relembrando\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Relembrando\Relembrando\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Relembrando\Relembrando\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Relembrando\Relembrando\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Relembrando\Relembrando\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Relembrando\Relembrando\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Relembrando\Relembrando\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.genruntimeconfig.cache

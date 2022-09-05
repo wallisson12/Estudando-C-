@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OjoILE22HLLO8ULPzd1mDh+jvUrOuHhsw6U1iKSxhT9egHEM0kcluSYNwWvag7A6KYhVAOuTTvRcKKqFMG4lvg==",
+  "dgSpecHash": "RnH90mW6jA1nHu+bZfOmWVjfq8Zj+tx8Vqw8cB0qJhDLX+ydYz+MJ4xXDDkpdhaQCJCAL+plgBvSnif0Bj4GFw==",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\OneDrive\\Área de Trabalho\\C#(Estudo)\\Assuntos_POO\\Propriedades_TimeSpan\\Propriedades_TimeSpan.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

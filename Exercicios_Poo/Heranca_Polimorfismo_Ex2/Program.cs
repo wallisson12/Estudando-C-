@@ -9,6 +9,7 @@ namespace Heranca_Polimorfismo_Ex2
     {
         static void Main(string[] args)
         {
+            //Criacao da lista de produtos
             List<Product> products = new List<Product>();
 
             Console.Write("Enter the number of products: ");

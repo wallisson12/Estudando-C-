@@ -27,7 +27,7 @@ namespace Enumeracao_Enum
 
             OrderStatus oss;
             Enum.TryParse("Delivered", out oss);
-
+            
             Console.WriteLine(oss);
 
          

@@ -91,7 +91,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca_Sobreposicao", "Ass
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca_Ex1", "Heranca_Ex1\Heranca_Ex1.csproj", "{37C51677-37A1-4F40-93DE-1EADE6758B3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_Polimorfismo_Ex2", "Exercicios_Poo\Heranca_Polimorfismo_Ex2\Heranca_Polimorfismo_Ex2.csproj", "{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca_Polimorfismo_Ex2", "Exercicios_Poo\Heranca_Polimorfismo_Ex2\Heranca_Polimorfismo_Ex2.csproj", "{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Abstratas", "Assuntos_POO\Classes_Abstratas\Classes_Abstratas.csproj", "{26EF93AD-92E9-4342-A018-1C374D24A1BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_MetodoAbstrato", "Exercicios_Poo\Exercicio_MetodoAbstrato\Exercicio_MetodoAbstrato.csproj", "{D87CEC2F-4B19-4697-A125-A1D3B75E50EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -607,6 +611,30 @@ Global
 		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}.Release|x64.Build.0 = Release|Any CPU
 		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}.Release|x86.ActiveCfg = Release|Any CPU
 		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC}.Release|x86.Build.0 = Release|Any CPU
+		{26EF93AD-92E9-4342-A018-1C374D24A1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EF93AD-92E9-4342-A018-1C374D24A1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EF93AD-92E9-4342-A018-1C374D24A1BF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{26EF93AD-92E9-4342-A018-1C374D24A1BF}.Debug|x64.Build.0 = Debug|Any CPU
+		{26EF93AD-92E9-4342-A018-1C374D24A1BF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{26EF93AD-92E9-4342-A018-1C374D24A1BF}.Debug|x86.Build.0 = Debug|Any CPU
+		{26EF93AD-92E9-4342-A018-1C374D24A1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EF93AD-92E9-4342-A018-1C374D24A1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26EF93AD-92E9-4342-A018-1C374D24A1BF}.Release|x64.ActiveCfg = Release|Any CPU
+		{26EF93AD-92E9-4342-A018-1C374D24A1BF}.Release|x64.Build.0 = Release|Any CPU
+		{26EF93AD-92E9-4342-A018-1C374D24A1BF}.Release|x86.ActiveCfg = Release|Any CPU
+		{26EF93AD-92E9-4342-A018-1C374D24A1BF}.Release|x86.Build.0 = Release|Any CPU
+		{D87CEC2F-4B19-4697-A125-A1D3B75E50EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87CEC2F-4B19-4697-A125-A1D3B75E50EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87CEC2F-4B19-4697-A125-A1D3B75E50EA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D87CEC2F-4B19-4697-A125-A1D3B75E50EA}.Debug|x64.Build.0 = Debug|Any CPU
+		{D87CEC2F-4B19-4697-A125-A1D3B75E50EA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D87CEC2F-4B19-4697-A125-A1D3B75E50EA}.Debug|x86.Build.0 = Debug|Any CPU
+		{D87CEC2F-4B19-4697-A125-A1D3B75E50EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87CEC2F-4B19-4697-A125-A1D3B75E50EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D87CEC2F-4B19-4697-A125-A1D3B75E50EA}.Release|x64.ActiveCfg = Release|Any CPU
+		{D87CEC2F-4B19-4697-A125-A1D3B75E50EA}.Release|x64.Build.0 = Release|Any CPU
+		{D87CEC2F-4B19-4697-A125-A1D3B75E50EA}.Release|x86.ActiveCfg = Release|Any CPU
+		{D87CEC2F-4B19-4697-A125-A1D3B75E50EA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -654,6 +682,8 @@ Global
 		{36001891-3833-4DA7-80EA-5A4EEFF342C1} = {4F7417DF-069D-49D8-85A2-527A4BA48966}
 		{37C51677-37A1-4F40-93DE-1EADE6758B3D} = {9EB1E53A-2056-40D8-898E-3B2060D4E1A2}
 		{481BBC7B-D6E0-4656-8AC1-70945DC9E6FC} = {9EB1E53A-2056-40D8-898E-3B2060D4E1A2}
+		{26EF93AD-92E9-4342-A018-1C374D24A1BF} = {4F7417DF-069D-49D8-85A2-527A4BA48966}
+		{D87CEC2F-4B19-4697-A125-A1D3B75E50EA} = {9EB1E53A-2056-40D8-898E-3B2060D4E1A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FB5F4C1B-2CFB-40E0-B0D9-7D6B7E55854F}

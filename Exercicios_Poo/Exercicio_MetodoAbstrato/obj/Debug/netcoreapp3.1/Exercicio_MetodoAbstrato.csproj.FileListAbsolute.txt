@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_MetodoAbstrato\bin\Debug\netcoreapp3.1\Exercicio_MetodoAbstrato.exe
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_MetodoAbstrato\bin\Debug\netcoreapp3.1\Exercicio_MetodoAbstrato.deps.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_MetodoAbstrato\bin\Debug\netcoreapp3.1\Exercicio_MetodoAbstrato.runtimeconfig.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_MetodoAbstrato\bin\Debug\netcoreapp3.1\Exercicio_MetodoAbstrato.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_MetodoAbstrato\bin\Debug\netcoreapp3.1\Exercicio_MetodoAbstrato.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_MetodoAbstrato\bin\Debug\netcoreapp3.1\Exercicio_MetodoAbstrato.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_MetodoAbstrato\obj\Debug\netcoreapp3.1\Exercicio_MetodoAbstrato.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_MetodoAbstrato\obj\Debug\netcoreapp3.1\Exercicio_MetodoAbstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_MetodoAbstrato\obj\Debug\netcoreapp3.1\Exercicio_MetodoAbstrato.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_MetodoAbstrato\obj\Debug\netcoreapp3.1\Exercicio_MetodoAbstrato.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_MetodoAbstrato\obj\Debug\netcoreapp3.1\Exercicio_MetodoAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_MetodoAbstrato\obj\Debug\netcoreapp3.1\Exercicio_MetodoAbstrato.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_MetodoAbstrato\obj\Debug\netcoreapp3.1\Exercicio_MetodoAbstrato.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_MetodoAbstrato\obj\Debug\netcoreapp3.1\Exercicio_MetodoAbstrato.genruntimeconfig.cache

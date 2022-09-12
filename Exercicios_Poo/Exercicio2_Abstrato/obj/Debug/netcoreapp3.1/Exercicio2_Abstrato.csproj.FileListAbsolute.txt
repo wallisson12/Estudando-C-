@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Abstrato\bin\Debug\netcoreapp3.1\Exercicio2_Abstrato.exe
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Abstrato\bin\Debug\netcoreapp3.1\Exercicio2_Abstrato.deps.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Abstrato\bin\Debug\netcoreapp3.1\Exercicio2_Abstrato.runtimeconfig.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Abstrato\bin\Debug\netcoreapp3.1\Exercicio2_Abstrato.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Abstrato\bin\Debug\netcoreapp3.1\Exercicio2_Abstrato.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Abstrato\bin\Debug\netcoreapp3.1\Exercicio2_Abstrato.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Abstrato\obj\Debug\netcoreapp3.1\Exercicio2_Abstrato.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Abstrato\obj\Debug\netcoreapp3.1\Exercicio2_Abstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Abstrato\obj\Debug\netcoreapp3.1\Exercicio2_Abstrato.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Abstrato\obj\Debug\netcoreapp3.1\Exercicio2_Abstrato.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Abstrato\obj\Debug\netcoreapp3.1\Exercicio2_Abstrato.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Abstrato\obj\Debug\netcoreapp3.1\Exercicio2_Abstrato.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Abstrato\obj\Debug\netcoreapp3.1\Exercicio2_Abstrato.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Abstrato\obj\Debug\netcoreapp3.1\Exercicio2_Abstrato.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecaoo\bin\Debug\netcoreapp3.1\Excecaoo.exe
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecaoo\bin\Debug\netcoreapp3.1\Excecaoo.deps.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecaoo\bin\Debug\netcoreapp3.1\Excecaoo.runtimeconfig.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecaoo\bin\Debug\netcoreapp3.1\Excecaoo.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecaoo\bin\Debug\netcoreapp3.1\Excecaoo.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecaoo\bin\Debug\netcoreapp3.1\Excecaoo.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecaoo\obj\Debug\netcoreapp3.1\Excecaoo.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecaoo\obj\Debug\netcoreapp3.1\Excecaoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecaoo\obj\Debug\netcoreapp3.1\Excecaoo.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecaoo\obj\Debug\netcoreapp3.1\Excecaoo.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecaoo\obj\Debug\netcoreapp3.1\Excecaoo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecaoo\obj\Debug\netcoreapp3.1\Excecaoo.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecaoo\obj\Debug\netcoreapp3.1\Excecaoo.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecaoo\obj\Debug\netcoreapp3.1\Excecaoo.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Excecao_Personalizada/1.0.0": {
+        "runtime": {
+          "Excecao_Personalizada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Excecao_Personalizada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

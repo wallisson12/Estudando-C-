@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecao_Personalizada\bin\Debug\netcoreapp3.1\Excecao_Personalizada.exe
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecao_Personalizada\bin\Debug\netcoreapp3.1\Excecao_Personalizada.deps.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecao_Personalizada\bin\Debug\netcoreapp3.1\Excecao_Personalizada.runtimeconfig.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecao_Personalizada\bin\Debug\netcoreapp3.1\Excecao_Personalizada.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecao_Personalizada\bin\Debug\netcoreapp3.1\Excecao_Personalizada.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecao_Personalizada\bin\Debug\netcoreapp3.1\Excecao_Personalizada.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecao_Personalizada\obj\Debug\netcoreapp3.1\Excecao_Personalizada.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecao_Personalizada\obj\Debug\netcoreapp3.1\Excecao_Personalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecao_Personalizada\obj\Debug\netcoreapp3.1\Excecao_Personalizada.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecao_Personalizada\obj\Debug\netcoreapp3.1\Excecao_Personalizada.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecao_Personalizada\obj\Debug\netcoreapp3.1\Excecao_Personalizada.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecao_Personalizada\obj\Debug\netcoreapp3.1\Excecao_Personalizada.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecao_Personalizada\obj\Debug\netcoreapp3.1\Excecao_Personalizada.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Excecao_Personalizada\obj\Debug\netcoreapp3.1\Excecao_Personalizada.genruntimeconfig.cache

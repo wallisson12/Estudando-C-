@@ -43,6 +43,7 @@ namespace Excecaoo
                 Console.WriteLine("Format error !!! " + e.Message);
             }
            
+            //O finaly executa independente se tiver ou nao alguma excecao
 
         }
     }

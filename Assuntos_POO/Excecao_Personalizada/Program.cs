@@ -1,5 +1,6 @@
 ﻿using System;
 using Excecao_Personalizada.Entites;
+using Excecao_Personalizada.Entites.Exceptions;
 
 namespace Excecao_Personalizada
 {
@@ -7,25 +8,23 @@ namespace Excecao_Personalizada
     {
         static void Main(string[] args)
         {
-            //Excecao personalizada de maneira errada sem o uso de tryCatch
-
-            Console.Write("Room Number: ");
-            int number = int.Parse(Console.ReadLine());
-
-            Console.Write("Check-in date (dd/MM/yyyy): ");
-            DateTime checkIn = DateTime.Parse(Console.ReadLine());
-
-            Console.Write("Check-out date (dd/MM/yyyy): ");
-            DateTime checkOut = DateTime.Parse(Console.ReadLine());
-
-            if (checkOut <= checkIn)
+            try
             {
-                Console.WriteLine("Erro in reservation: Check-Out date must be after CheckIn");
-            }
-            else
-            {
+
+                Console.Write("Room Number: ");
+                int number = int.Parse(Console.ReadLine());
+
+                Console.Write("Check-in date (dd/MM/yyyy): ");
+                DateTime checkIn = DateTime.Parse(Console.ReadLine());
+
+                Console.Write("Check-out date (dd/MM/yyyy): ");
+                DateTime checkOut = DateTime.Parse(Console.ReadLine());
+
+                //Ja faz a verificacao/validacao no proprio construtor
                 Reservation reservation = new Reservation(number,checkIn,checkOut);
+
                 Console.WriteLine("Reservation: " + reservation);
+
 
                 Console.WriteLine();
 
@@ -39,23 +38,22 @@ namespace Excecao_Personalizada
                 Console.Write("Check-out date (dd/MM/yyyy): ");
                 checkOut = DateTime.Parse(Console.ReadLine());
 
-                DateTime now = DateTime.Now;
+                //Ja esta verificando/validando no proprio metodo da classe
+                reservation.UpdateDates(checkIn, checkOut);
 
-                if (checkIn < now || checkOut < now)
-                {
-                    Console.WriteLine("Erro in reservation dates for update must be future dates");
-                }
-                else if(checkOut <= checkIn)
-                {
-                    Console.WriteLine("Erro in reservation: Check-Out date must be after CheckIn");
-                }
-                else
-                {
-                    reservation.UpdateDates(checkIn, checkOut);
-                    Console.WriteLine("Reservation: " + reservation);
-                }
+                Console.WriteLine("Reservation: " + reservation);
+
             }
-
+            catch (DomainException e)
+            {
+                //Excecao personalizada 
+                Console.WriteLine("Erro in reservation: " + e.Message);
+            }
+            catch (FormatException e)
+            {
+                //Excecao do sistema
+                Console.WriteLine("Format error: " + e.Message);
+            }
 
         }
     }

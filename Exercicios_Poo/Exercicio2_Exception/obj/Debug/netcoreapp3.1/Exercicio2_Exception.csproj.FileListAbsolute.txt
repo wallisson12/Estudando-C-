@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Exception\bin\Debug\netcoreapp3.1\Exercicio2_Exception.exe
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Exception\bin\Debug\netcoreapp3.1\Exercicio2_Exception.deps.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Exception\bin\Debug\netcoreapp3.1\Exercicio2_Exception.runtimeconfig.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Exception\bin\Debug\netcoreapp3.1\Exercicio2_Exception.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Exception\bin\Debug\netcoreapp3.1\Exercicio2_Exception.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Exception\bin\Debug\netcoreapp3.1\Exercicio2_Exception.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Exception\obj\Debug\netcoreapp3.1\Exercicio2_Exception.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Exception\obj\Debug\netcoreapp3.1\Exercicio2_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Exception\obj\Debug\netcoreapp3.1\Exercicio2_Exception.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Exception\obj\Debug\netcoreapp3.1\Exercicio2_Exception.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Exception\obj\Debug\netcoreapp3.1\Exercicio2_Exception.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Exception\obj\Debug\netcoreapp3.1\Exercicio2_Exception.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Exception\obj\Debug\netcoreapp3.1\Exercicio2_Exception.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio2_Exception\obj\Debug\netcoreapp3.1\Exercicio2_Exception.genruntimeconfig.cache

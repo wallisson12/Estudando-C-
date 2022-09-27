@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivoss2\bin\Debug\netcoreapp3.1\Arquivoss2.exe
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivoss2\bin\Debug\netcoreapp3.1\Arquivoss2.deps.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivoss2\bin\Debug\netcoreapp3.1\Arquivoss2.runtimeconfig.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivoss2\bin\Debug\netcoreapp3.1\Arquivoss2.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivoss2\bin\Debug\netcoreapp3.1\Arquivoss2.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivoss2\bin\Debug\netcoreapp3.1\Arquivoss2.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivoss2\obj\Debug\netcoreapp3.1\Arquivoss2.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivoss2\obj\Debug\netcoreapp3.1\Arquivoss2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivoss2\obj\Debug\netcoreapp3.1\Arquivoss2.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivoss2\obj\Debug\netcoreapp3.1\Arquivoss2.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivoss2\obj\Debug\netcoreapp3.1\Arquivoss2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivoss2\obj\Debug\netcoreapp3.1\Arquivoss2.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivoss2\obj\Debug\netcoreapp3.1\Arquivoss2.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivoss2\obj\Debug\netcoreapp3.1\Arquivoss2.genruntimeconfig.cache

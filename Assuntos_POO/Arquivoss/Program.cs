@@ -18,6 +18,7 @@ namespace Arquivoss
                 //Instanciando um objeto que vai estar associado a um arquivo em um determinado caminho
                 FileInfo fileInfo = new FileInfo(sourcePath);
 
+                //Cria um novo arquivo caso ele nao exista e copia a informacao do primeiro nele 
                 fileInfo.CopyTo(targetPath);
 
                 //Vai abir o arquivo nesse caminho e ler todas as linhas e colocalas no vetor

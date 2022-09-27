@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Classes_Abstratas\bin\Debug\netcoreapp3.1\Classes_Abstratas.exe
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Classes_Abstratas\bin\Debug\netcoreapp3.1\Classes_Abstratas.deps.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Classes_Abstratas\bin\Debug\netcoreapp3.1\Classes_Abstratas.runtimeconfig.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Classes_Abstratas\bin\Debug\netcoreapp3.1\Classes_Abstratas.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Classes_Abstratas\bin\Debug\netcoreapp3.1\Classes_Abstratas.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Classes_Abstratas\bin\Debug\netcoreapp3.1\Classes_Abstratas.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Classes_Abstratas\obj\Debug\netcoreapp3.1\Classes_Abstratas.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Classes_Abstratas\obj\Debug\netcoreapp3.1\Classes_Abstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Classes_Abstratas\obj\Debug\netcoreapp3.1\Classes_Abstratas.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Classes_Abstratas\obj\Debug\netcoreapp3.1\Classes_Abstratas.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Classes_Abstratas\obj\Debug\netcoreapp3.1\Classes_Abstratas.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Classes_Abstratas\obj\Debug\netcoreapp3.1\Classes_Abstratas.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Classes_Abstratas\obj\Debug\netcoreapp3.1\Classes_Abstratas.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Classes_Abstratas\obj\Debug\netcoreapp3.1\Classes_Abstratas.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivo5\bin\Debug\netcoreapp3.1\Arquivo5.exe
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivo5\bin\Debug\netcoreapp3.1\Arquivo5.deps.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivo5\bin\Debug\netcoreapp3.1\Arquivo5.runtimeconfig.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivo5\bin\Debug\netcoreapp3.1\Arquivo5.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivo5\bin\Debug\netcoreapp3.1\Arquivo5.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivo5\bin\Debug\netcoreapp3.1\Arquivo5.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivo5\obj\Debug\netcoreapp3.1\Arquivo5.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivo5\obj\Debug\netcoreapp3.1\Arquivo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivo5\obj\Debug\netcoreapp3.1\Arquivo5.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivo5\obj\Debug\netcoreapp3.1\Arquivo5.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivo5\obj\Debug\netcoreapp3.1\Arquivo5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivo5\obj\Debug\netcoreapp3.1\Arquivo5.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivo5\obj\Debug\netcoreapp3.1\Arquivo5.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Assuntos_POO\Arquivo5\obj\Debug\netcoreapp3.1\Arquivo5.genruntimeconfig.cache

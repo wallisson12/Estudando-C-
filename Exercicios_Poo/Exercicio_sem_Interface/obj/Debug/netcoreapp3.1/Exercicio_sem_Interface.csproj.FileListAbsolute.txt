@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_sem_Interface\bin\Debug\netcoreapp3.1\Exercicio_sem_Interface.exe
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_sem_Interface\bin\Debug\netcoreapp3.1\Exercicio_sem_Interface.deps.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_sem_Interface\bin\Debug\netcoreapp3.1\Exercicio_sem_Interface.runtimeconfig.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_sem_Interface\bin\Debug\netcoreapp3.1\Exercicio_sem_Interface.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_sem_Interface\bin\Debug\netcoreapp3.1\Exercicio_sem_Interface.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_sem_Interface\bin\Debug\netcoreapp3.1\Exercicio_sem_Interface.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_sem_Interface\obj\Debug\netcoreapp3.1\Exercicio_sem_Interface.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_sem_Interface\obj\Debug\netcoreapp3.1\Exercicio_sem_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_sem_Interface\obj\Debug\netcoreapp3.1\Exercicio_sem_Interface.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_sem_Interface\obj\Debug\netcoreapp3.1\Exercicio_sem_Interface.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_sem_Interface\obj\Debug\netcoreapp3.1\Exercicio_sem_Interface.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_sem_Interface\obj\Debug\netcoreapp3.1\Exercicio_sem_Interface.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_sem_Interface\obj\Debug\netcoreapp3.1\Exercicio_sem_Interface.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\C#(Estudo)\Exercicios_Poo\Exercicio_sem_Interface\obj\Debug\netcoreapp3.1\Exercicio_sem_Interface.genruntimeconfig.cache

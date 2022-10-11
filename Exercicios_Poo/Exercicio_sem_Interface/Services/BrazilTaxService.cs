@@ -1,7 +1,9 @@
 ﻿
 namespace Exercicio_sem_Interface
 {
-    class BrazilTaxService
+    //Nao é heranca e uma relaizacao de interface
+    //A classe precisar implementar o metodo Tax
+    class BrazilTaxService : ITaxService
     {
         
         public double Tax(double amount)

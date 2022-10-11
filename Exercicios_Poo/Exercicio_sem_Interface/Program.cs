@@ -26,7 +26,9 @@ namespace Exercicio_sem_Interface
 
             CarRental carRental = new CarRental(start,finish,new Vehicle(model));
 
-            RentalService rentalService = new RentalService(hour, day);
+            //Passando qual servico/dependencia da interface eu quero utilizar
+            //Polimorfismo - UpCasting
+            RentalService rentalService = new RentalService(hour, day,new BrazilTaxService());
 
             rentalService.ProcessInvoice(carRental);
 

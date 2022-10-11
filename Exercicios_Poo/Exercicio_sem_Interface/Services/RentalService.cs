@@ -8,12 +8,14 @@ namespace Exercicio_sem_Interface
         public double PricePerHour { get; private set; }
         public double PricePerDay { get; private set; }
 
-        private BrazilTaxService _brazilTaxService = new BrazilTaxService();
+        //Inversao de controle por meio de injecao de dependencia (Uns dos principios solid)
+        private ITaxService _taxService; 
 
-        public RentalService(double pricePerHour,double pricePerDay)
+        public RentalService(double pricePerHour,double pricePerDay,ITaxService taxServicee)
         {
             PricePerHour = pricePerHour;
             PricePerDay = pricePerDay;
+            _taxService = taxServicee;
         }
 
         public void ProcessInvoice(CarRental car)
@@ -31,7 +33,8 @@ namespace Exercicio_sem_Interface
                 payment = PricePerDay * Math.Ceiling(duration.TotalDays);
             }
 
-            double tax = _brazilTaxService.Tax(payment);
+            //Utilizando o servico
+            double tax = _taxService.Tax(payment);
 
             car.Invoicee = new Invoice(payment,tax);
         }
